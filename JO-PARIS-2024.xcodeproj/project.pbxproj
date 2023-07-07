@@ -1,0 +1,572 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0C15FC0F2A4C1695003E8A33 /* ButtonNewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C15FC0E2A4C1695003E8A33 /* ButtonNewsView.swift */; };
+		0C15FC112A4C16DB003E8A33 /* NewsDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C15FC102A4C16DB003E8A33 /* NewsDetailView.swift */; };
+		0C24D3682A56A052005DD0F0 /* ButtonEventView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C24D3672A56A052005DD0F0 /* ButtonEventView.swift */; };
+		0C25460A2A4B0BA900146639 /* AddCountryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2546092A4B0BA900146639 /* AddCountryView.swift */; };
+		0C25460C2A4B0BF500146639 /* AddSportView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C25460B2A4B0BF500146639 /* AddSportView.swift */; };
+		0C25460E2A4B0CCD00146639 /* CountryViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C25460D2A4B0CCD00146639 /* CountryViewModel.swift */; };
+		0C2546102A4B0D0700146639 /* SportViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C25460F2A4B0D0700146639 /* SportViewModel.swift */; };
+		0C2546122A4B0D4400146639 /* AthleteViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2546112A4B0D4400146639 /* AthleteViewModel.swift */; };
+		0C2546142A4B0FB200146639 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2546132A4B0FB200146639 /* SettingsView.swift */; };
+		0C2546162A4B10AA00146639 /* UserViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2546152A4B10AA00146639 /* UserViewModel.swift */; };
+		0C2546182A4B12DE00146639 /* AddAthleteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2546172A4B12DE00146639 /* AddAthleteView.swift */; };
+		0C2BEC742A4C5FF00001A47D /* StreamingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C2BEC732A4C5FF00001A47D /* StreamingView.swift */; };
+		0C4600B12A4499FC003F7108 /* Paris2024-Variable.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0C4600B02A4499FC003F7108 /* Paris2024-Variable.ttf */; };
+		0C4600B32A44A06D003F7108 /* AddView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C4600B22A44A06D003F7108 /* AddView.swift */; };
+		0C4600B52A44A1D1003F7108 /* SportProfilView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C4600B42A44A1D1003F7108 /* SportProfilView.swift */; };
+		0C4600B72A44A298003F7108 /* AthleteProfilView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C4600B62A44A298003F7108 /* AthleteProfilView.swift */; };
+		0C4600B92A44A350003F7108 /* CountryProfilView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C4600B82A44A350003F7108 /* CountryProfilView.swift */; };
+		0C5ED60D2A55553C00689877 /* DatePickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C5ED60C2A55553C00689877 /* DatePickerView.swift */; };
+		0C634B262A4ECCD2005BBDB4 /* SportsData.json in Resources */ = {isa = PBXBuildFile; fileRef = 0C634B252A4ECCD2005BBDB4 /* SportsData.json */; };
+		0C634B282A4EDEF0005BBDB4 /* SportsDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C634B272A4EDEF0005BBDB4 /* SportsDataModel.swift */; };
+		0C634B2A2A4EF834005BBDB4 /* MapSportsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C634B292A4EF834005BBDB4 /* MapSportsView.swift */; };
+		0C634B2C2A4EFDF7005BBDB4 /* MapSportViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C634B2B2A4EFDF7005BBDB4 /* MapSportViewModel.swift */; };
+		0C634B2E2A4F02DC005BBDB4 /* ApiModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C634B2D2A4F02DC005BBDB4 /* ApiModel.swift */; };
+		0C634B302A4F07D3005BBDB4 /* AProposView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C634B2F2A4F07D3005BBDB4 /* AProposView.swift */; };
+		0C634B322A4F2AD0005BBDB4 /* EventListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C634B312A4F2AD0005BBDB4 /* EventListView.swift */; };
+		0C78DC872A519CFA0030DC08 /* SportDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C78DC862A519CFA0030DC08 /* SportDetailView.swift */; };
+		0CB587BF2A45A95400E50EEF /* PickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CB587BE2A45A95400E50EEF /* PickerView.swift */; };
+		0CB587C12A45E7A300E50EEF /* Picker2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CB587C02A45E7A300E50EEF /* Picker2View.swift */; };
+		0CB9A51E2A4994B200C755FF /* EventViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CB9A51D2A4994B200C755FF /* EventViewModel.swift */; };
+		0CDD881E2A433845001DF0B0 /* JO_PARIS_2024App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CDD881D2A433845001DF0B0 /* JO_PARIS_2024App.swift */; };
+		0CDD88202A433845001DF0B0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CDD881F2A433845001DF0B0 /* ContentView.swift */; };
+		0CDD88222A433846001DF0B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CDD88212A433846001DF0B0 /* Assets.xcassets */; };
+		0CDD88252A433846001DF0B0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0CDD88242A433846001DF0B0 /* Preview Assets.xcassets */; };
+		0CDD88302A433B9C001DF0B0 /* TabBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CDD882F2A433B9C001DF0B0 /* TabBarView.swift */; };
+		0CDD88322A433BC2001DF0B0 /* ProfilView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CDD88312A433BC2001DF0B0 /* ProfilView.swift */; };
+		0CDD88342A433BD1001DF0B0 /* EventsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CDD88332A433BD1001DF0B0 /* EventsView.swift */; };
+		0CDD88362A433BED001DF0B0 /* LiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CDD88352A433BED001DF0B0 /* LiveView.swift */; };
+		0CDD88382A433C2A001DF0B0 /* NewsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CDD88372A433C2A001DF0B0 /* NewsView.swift */; };
+		0CDD883A2A433C55001DF0B0 /* MyVideosView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CDD88392A433C55001DF0B0 /* MyVideosView.swift */; };
+		0CDD883E2A433D4E001DF0B0 /* ArrayUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CDD883D2A433D4E001DF0B0 /* ArrayUser.swift */; };
+		0CDD88402A433DE1001DF0B0 /* ArrayEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CDD883F2A433DE1001DF0B0 /* ArrayEvent.swift */; };
+		0CDD88442A434295001DF0B0 /* ArrayAthlete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CDD88432A434295001DF0B0 /* ArrayAthlete.swift */; };
+		0CDD88462A4343DC001DF0B0 /* ArraySport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CDD88452A4343DC001DF0B0 /* ArraySport.swift */; };
+		0CDD88482A434424001DF0B0 /* ArrayCountry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CDD88472A434424001DF0B0 /* ArrayCountry.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0C15FC0E2A4C1695003E8A33 /* ButtonNewsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonNewsView.swift; sourceTree = "<group>"; };
+		0C15FC102A4C16DB003E8A33 /* NewsDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsDetailView.swift; sourceTree = "<group>"; };
+		0C24D3602A566FB8005DD0F0 /* Sports2Data.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Sports2Data.json; sourceTree = "<group>"; };
+		0C24D3672A56A052005DD0F0 /* ButtonEventView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonEventView.swift; sourceTree = "<group>"; };
+		0C2546092A4B0BA900146639 /* AddCountryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCountryView.swift; sourceTree = "<group>"; };
+		0C25460B2A4B0BF500146639 /* AddSportView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddSportView.swift; sourceTree = "<group>"; };
+		0C25460D2A4B0CCD00146639 /* CountryViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryViewModel.swift; sourceTree = "<group>"; };
+		0C25460F2A4B0D0700146639 /* SportViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportViewModel.swift; sourceTree = "<group>"; };
+		0C2546112A4B0D4400146639 /* AthleteViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AthleteViewModel.swift; sourceTree = "<group>"; };
+		0C2546132A4B0FB200146639 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		0C2546152A4B10AA00146639 /* UserViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserViewModel.swift; sourceTree = "<group>"; };
+		0C2546172A4B12DE00146639 /* AddAthleteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddAthleteView.swift; sourceTree = "<group>"; };
+		0C259F502A49FD4800AB16DD /* AVKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVKit.framework; path = System/Library/Frameworks/AVKit.framework; sourceTree = SDKROOT; };
+		0C259F592A4A05DC00AB16DD /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		0C2BEC732A4C5FF00001A47D /* StreamingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StreamingView.swift; sourceTree = "<group>"; };
+		0C4600AF2A4497F6003F7108 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		0C4600B02A4499FC003F7108 /* Paris2024-Variable.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Paris2024-Variable.ttf"; sourceTree = "<group>"; };
+		0C4600B22A44A06D003F7108 /* AddView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddView.swift; sourceTree = "<group>"; };
+		0C4600B42A44A1D1003F7108 /* SportProfilView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportProfilView.swift; sourceTree = "<group>"; };
+		0C4600B62A44A298003F7108 /* AthleteProfilView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AthleteProfilView.swift; sourceTree = "<group>"; };
+		0C4600B82A44A350003F7108 /* CountryProfilView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryProfilView.swift; sourceTree = "<group>"; };
+		0C5ED60C2A55553C00689877 /* DatePickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerView.swift; sourceTree = "<group>"; };
+		0C634B252A4ECCD2005BBDB4 /* SportsData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = SportsData.json; sourceTree = "<group>"; };
+		0C634B272A4EDEF0005BBDB4 /* SportsDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportsDataModel.swift; sourceTree = "<group>"; };
+		0C634B292A4EF834005BBDB4 /* MapSportsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapSportsView.swift; sourceTree = "<group>"; };
+		0C634B2B2A4EFDF7005BBDB4 /* MapSportViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapSportViewModel.swift; sourceTree = "<group>"; };
+		0C634B2D2A4F02DC005BBDB4 /* ApiModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiModel.swift; sourceTree = "<group>"; };
+		0C634B2F2A4F07D3005BBDB4 /* AProposView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AProposView.swift; sourceTree = "<group>"; };
+		0C634B312A4F2AD0005BBDB4 /* EventListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventListView.swift; sourceTree = "<group>"; };
+		0C785F582A4AC88200DFAC61 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
+		0C78DC862A519CFA0030DC08 /* SportDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportDetailView.swift; sourceTree = "<group>"; };
+		0CB587BE2A45A95400E50EEF /* PickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerView.swift; sourceTree = "<group>"; };
+		0CB587C02A45E7A300E50EEF /* Picker2View.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Picker2View.swift; sourceTree = "<group>"; };
+		0CB9A51D2A4994B200C755FF /* EventViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventViewModel.swift; sourceTree = "<group>"; };
+		0CDD881A2A433845001DF0B0 /* JO-PARIS-2024.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "JO-PARIS-2024.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0CDD881D2A433845001DF0B0 /* JO_PARIS_2024App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JO_PARIS_2024App.swift; sourceTree = "<group>"; };
+		0CDD881F2A433845001DF0B0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		0CDD88212A433846001DF0B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0CDD88242A433846001DF0B0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		0CDD882F2A433B9C001DF0B0 /* TabBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarView.swift; sourceTree = "<group>"; };
+		0CDD88312A433BC2001DF0B0 /* ProfilView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfilView.swift; sourceTree = "<group>"; };
+		0CDD88332A433BD1001DF0B0 /* EventsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventsView.swift; sourceTree = "<group>"; };
+		0CDD88352A433BED001DF0B0 /* LiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiveView.swift; sourceTree = "<group>"; };
+		0CDD88372A433C2A001DF0B0 /* NewsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsView.swift; sourceTree = "<group>"; };
+		0CDD88392A433C55001DF0B0 /* MyVideosView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyVideosView.swift; sourceTree = "<group>"; };
+		0CDD883D2A433D4E001DF0B0 /* ArrayUser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayUser.swift; sourceTree = "<group>"; };
+		0CDD883F2A433DE1001DF0B0 /* ArrayEvent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayEvent.swift; sourceTree = "<group>"; };
+		0CDD88432A434295001DF0B0 /* ArrayAthlete.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayAthlete.swift; sourceTree = "<group>"; };
+		0CDD88452A4343DC001DF0B0 /* ArraySport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraySport.swift; sourceTree = "<group>"; };
+		0CDD88472A434424001DF0B0 /* ArrayCountry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayCountry.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		0CDD88172A433845001DF0B0 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0C259F4F2A49FD4800AB16DD /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0C785F582A4AC88200DFAC61 /* CoreMedia.framework */,
+				0C259F592A4A05DC00AB16DD /* AVFoundation.framework */,
+				0C259F502A49FD4800AB16DD /* AVKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		0CB9A51C2A49948A00C755FF /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				0CB9A51D2A4994B200C755FF /* EventViewModel.swift */,
+				0C2546152A4B10AA00146639 /* UserViewModel.swift */,
+				0C25460D2A4B0CCD00146639 /* CountryViewModel.swift */,
+				0C25460F2A4B0D0700146639 /* SportViewModel.swift */,
+				0C2546112A4B0D4400146639 /* AthleteViewModel.swift */,
+				0C634B2B2A4EFDF7005BBDB4 /* MapSportViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		0CDD88112A433845001DF0B0 = {
+			isa = PBXGroup;
+			children = (
+				0CDD881C2A433845001DF0B0 /* JO-PARIS-2024 */,
+				0CDD881B2A433845001DF0B0 /* Products */,
+				0C259F4F2A49FD4800AB16DD /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		0CDD881B2A433845001DF0B0 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				0CDD881A2A433845001DF0B0 /* JO-PARIS-2024.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0CDD881C2A433845001DF0B0 /* JO-PARIS-2024 */ = {
+			isa = PBXGroup;
+			children = (
+				0C4600AF2A4497F6003F7108 /* Info.plist */,
+				0CDD882E2A4338AE001DF0B0 /* Model */,
+				0CB9A51C2A49948A00C755FF /* ViewModel */,
+				0CDD882D2A43389B001DF0B0 /* Extension */,
+				0CDD882C2A433875001DF0B0 /* Buttons */,
+				0CDD882B2A433867001DF0B0 /* Views */,
+				0CDD88212A433846001DF0B0 /* Assets.xcassets */,
+				0CDD88232A433846001DF0B0 /* Preview Content */,
+			);
+			path = "JO-PARIS-2024";
+			sourceTree = "<group>";
+		};
+		0CDD88232A433846001DF0B0 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				0CDD88242A433846001DF0B0 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		0CDD882B2A433867001DF0B0 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0CDD881D2A433845001DF0B0 /* JO_PARIS_2024App.swift */,
+				0CDD881F2A433845001DF0B0 /* ContentView.swift */,
+				0CDD882F2A433B9C001DF0B0 /* TabBarView.swift */,
+				0C4600B62A44A298003F7108 /* AthleteProfilView.swift */,
+				0C2546172A4B12DE00146639 /* AddAthleteView.swift */,
+				0C2546092A4B0BA900146639 /* AddCountryView.swift */,
+				0C25460B2A4B0BF500146639 /* AddSportView.swift */,
+				0C4600B82A44A350003F7108 /* CountryProfilView.swift */,
+				0C4600B42A44A1D1003F7108 /* SportProfilView.swift */,
+				0CDD88312A433BC2001DF0B0 /* ProfilView.swift */,
+				0CDD88372A433C2A001DF0B0 /* NewsView.swift */,
+				0C15FC102A4C16DB003E8A33 /* NewsDetailView.swift */,
+				0C2546132A4B0FB200146639 /* SettingsView.swift */,
+				0C634B2F2A4F07D3005BBDB4 /* AProposView.swift */,
+				0C5ED60C2A55553C00689877 /* DatePickerView.swift */,
+				0CDD88352A433BED001DF0B0 /* LiveView.swift */,
+				0CDD88392A433C55001DF0B0 /* MyVideosView.swift */,
+				0CDD88332A433BD1001DF0B0 /* EventsView.swift */,
+				0C634B312A4F2AD0005BBDB4 /* EventListView.swift */,
+				0C634B292A4EF834005BBDB4 /* MapSportsView.swift */,
+				0C78DC862A519CFA0030DC08 /* SportDetailView.swift */,
+				0C2BEC732A4C5FF00001A47D /* StreamingView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		0CDD882C2A433875001DF0B0 /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				0C4600B22A44A06D003F7108 /* AddView.swift */,
+				0C15FC0E2A4C1695003E8A33 /* ButtonNewsView.swift */,
+				0CB587BE2A45A95400E50EEF /* PickerView.swift */,
+				0CB587C02A45E7A300E50EEF /* Picker2View.swift */,
+				0C24D3672A56A052005DD0F0 /* ButtonEventView.swift */,
+			);
+			path = Buttons;
+			sourceTree = "<group>";
+		};
+		0CDD882D2A43389B001DF0B0 /* Extension */ = {
+			isa = PBXGroup;
+			children = (
+				0C4600B02A4499FC003F7108 /* Paris2024-Variable.ttf */,
+			);
+			path = Extension;
+			sourceTree = "<group>";
+		};
+		0CDD882E2A4338AE001DF0B0 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				0CDD883D2A433D4E001DF0B0 /* ArrayUser.swift */,
+				0C634B2D2A4F02DC005BBDB4 /* ApiModel.swift */,
+				0CDD88472A434424001DF0B0 /* ArrayCountry.swift */,
+				0CDD88452A4343DC001DF0B0 /* ArraySport.swift */,
+				0CDD883F2A433DE1001DF0B0 /* ArrayEvent.swift */,
+				0CDD88432A434295001DF0B0 /* ArrayAthlete.swift */,
+				0C634B272A4EDEF0005BBDB4 /* SportsDataModel.swift */,
+				0C634B252A4ECCD2005BBDB4 /* SportsData.json */,
+				0C24D3602A566FB8005DD0F0 /* Sports2Data.json */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		0CDD88192A433845001DF0B0 /* JO-PARIS-2024 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0CDD88282A433846001DF0B0 /* Build configuration list for PBXNativeTarget "JO-PARIS-2024" */;
+			buildPhases = (
+				0CDD88162A433845001DF0B0 /* Sources */,
+				0CDD88172A433845001DF0B0 /* Frameworks */,
+				0CDD88182A433845001DF0B0 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "JO-PARIS-2024";
+			productName = "JO-PARIS-2024";
+			productReference = 0CDD881A2A433845001DF0B0 /* JO-PARIS-2024.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0CDD88122A433845001DF0B0 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					0CDD88192A433845001DF0B0 = {
+						CreatedOnToolsVersion = 14.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 0CDD88152A433845001DF0B0 /* Build configuration list for PBXProject "JO-PARIS-2024" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0CDD88112A433845001DF0B0;
+			productRefGroup = 0CDD881B2A433845001DF0B0 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				0CDD88192A433845001DF0B0 /* JO-PARIS-2024 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0CDD88182A433845001DF0B0 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C4600B12A4499FC003F7108 /* Paris2024-Variable.ttf in Resources */,
+				0CDD88252A433846001DF0B0 /* Preview Assets.xcassets in Resources */,
+				0C634B262A4ECCD2005BBDB4 /* SportsData.json in Resources */,
+				0CDD88222A433846001DF0B0 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0CDD88162A433845001DF0B0 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0CDD883A2A433C55001DF0B0 /* MyVideosView.swift in Sources */,
+				0C24D3682A56A052005DD0F0 /* ButtonEventView.swift in Sources */,
+				0C634B2A2A4EF834005BBDB4 /* MapSportsView.swift in Sources */,
+				0C2546162A4B10AA00146639 /* UserViewModel.swift in Sources */,
+				0C634B302A4F07D3005BBDB4 /* AProposView.swift in Sources */,
+				0CDD88362A433BED001DF0B0 /* LiveView.swift in Sources */,
+				0C4600B72A44A298003F7108 /* AthleteProfilView.swift in Sources */,
+				0C15FC112A4C16DB003E8A33 /* NewsDetailView.swift in Sources */,
+				0C4600B32A44A06D003F7108 /* AddView.swift in Sources */,
+				0C25460E2A4B0CCD00146639 /* CountryViewModel.swift in Sources */,
+				0C5ED60D2A55553C00689877 /* DatePickerView.swift in Sources */,
+				0C2546102A4B0D0700146639 /* SportViewModel.swift in Sources */,
+				0CDD88402A433DE1001DF0B0 /* ArrayEvent.swift in Sources */,
+				0CDD88202A433845001DF0B0 /* ContentView.swift in Sources */,
+				0C2BEC742A4C5FF00001A47D /* StreamingView.swift in Sources */,
+				0CDD883E2A433D4E001DF0B0 /* ArrayUser.swift in Sources */,
+				0CDD88342A433BD1001DF0B0 /* EventsView.swift in Sources */,
+				0CDD88382A433C2A001DF0B0 /* NewsView.swift in Sources */,
+				0CDD88302A433B9C001DF0B0 /* TabBarView.swift in Sources */,
+				0CB587C12A45E7A300E50EEF /* Picker2View.swift in Sources */,
+				0C78DC872A519CFA0030DC08 /* SportDetailView.swift in Sources */,
+				0CB587BF2A45A95400E50EEF /* PickerView.swift in Sources */,
+				0C4600B92A44A350003F7108 /* CountryProfilView.swift in Sources */,
+				0C2546142A4B0FB200146639 /* SettingsView.swift in Sources */,
+				0CDD88322A433BC2001DF0B0 /* ProfilView.swift in Sources */,
+				0C634B322A4F2AD0005BBDB4 /* EventListView.swift in Sources */,
+				0C25460C2A4B0BF500146639 /* AddSportView.swift in Sources */,
+				0C634B282A4EDEF0005BBDB4 /* SportsDataModel.swift in Sources */,
+				0CDD88442A434295001DF0B0 /* ArrayAthlete.swift in Sources */,
+				0C634B2C2A4EFDF7005BBDB4 /* MapSportViewModel.swift in Sources */,
+				0C15FC0F2A4C1695003E8A33 /* ButtonNewsView.swift in Sources */,
+				0C2546182A4B12DE00146639 /* AddAthleteView.swift in Sources */,
+				0CDD88482A434424001DF0B0 /* ArrayCountry.swift in Sources */,
+				0CDD88462A4343DC001DF0B0 /* ArraySport.swift in Sources */,
+				0C634B2E2A4F02DC005BBDB4 /* ApiModel.swift in Sources */,
+				0CDD881E2A433845001DF0B0 /* JO_PARIS_2024App.swift in Sources */,
+				0C2546122A4B0D4400146639 /* AthleteViewModel.swift in Sources */,
+				0CB9A51E2A4994B200C755FF /* EventViewModel.swift in Sources */,
+				0C4600B52A44A1D1003F7108 /* SportProfilView.swift in Sources */,
+				0C25460A2A4B0BA900146639 /* AddCountryView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		0CDD88262A433846001DF0B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		0CDD88272A433846001DF0B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		0CDD88292A433846001DF0B0 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"JO-PARIS-2024/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "JO-PARIS-2024/Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fr.EmmanuelCarrie.JO-PARIS-2024";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0CDD882A2A433846001DF0B0 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"JO-PARIS-2024/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "JO-PARIS-2024/Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "fr.EmmanuelCarrie.JO-PARIS-2024";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0CDD88152A433845001DF0B0 /* Build configuration list for PBXProject "JO-PARIS-2024" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0CDD88262A433846001DF0B0 /* Debug */,
+				0CDD88272A433846001DF0B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0CDD88282A433846001DF0B0 /* Build configuration list for PBXNativeTarget "JO-PARIS-2024" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0CDD88292A433846001DF0B0 /* Debug */,
+				0CDD882A2A433846001DF0B0 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0CDD88122A433845001DF0B0 /* Project object */;
+}

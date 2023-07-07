@@ -1,0 +1,217 @@
+[
+    {
+        "Sports": "Athlétisme",
+        "Icone": "",
+        "StartDate": "8/1/24",
+        "EventDate": "7/27/24 13:00",
+        "EndDate": "8/11/24",
+        "Awards": "Compétitions au Stade de France. Des remises de médailles sont prévues lors de toutes les sessions.",
+        "Details": [
+            {
+                "Localisation": "Stade de France",
+                "latitude": 48.924587787989196,
+                "longitude": 2.3606325821837397,
+            }
+        ]
+    },
+    {
+        "Sports": "Aviron",
+        "Icone": "",
+        "StartDate": "7/27/24",
+        "EventDate": "7/27/24 14:00",
+        "EndDate": "8/3/24",
+        "Awards": "Compétitions au stade nautique de Vaires-sur-Marne. Des remises de médailles sont prévues dans les sessions du 31 juillet, 1er, 2 et 3 août.",
+        "Details": [
+            {
+                "Localisation": "Stade nautique de Vaires-sur-Marne",
+                "latitude": 48.86075933171047,
+                "longitude": 2.637892709804562
+            }
+        ]
+    },
+    {
+        "Sports": "Badminton",
+        "Icone": "",
+        "StartDate": "7/27/24",
+        "EventDate": "7/27/24 20:00",
+        "EndDate": "8/5/24",
+        "Awards": "Compétitions au stade nautique de Vaires-sur-Marne. Des remises de médailles sont prévues dans les sessions du 2, 3, 4 et 5 août.",
+        "Details": [
+            {
+                "Localisation": "Arena Porte de la Chapelle",
+                "latitude": 48.89954612433169,
+                "longitude": 2.359849782863502
+            }
+        ]
+    },
+    {
+        "Sports": "Basketball",
+        "Icone": "",
+        "StartDate": "7/27/24",
+        "EventDate": "7/27/24 16:30",
+        "EndDate": "8/11/24",
+        "Awards": "Compétitions au stade Pierre Mauroy et à l'Arena Bercy. Des remises de médailles sont prévues dans les sessions du 10 et 11 août.",
+        "Details": [
+            {
+                "Localisation": "Stade Pierre Mauroy",
+                "latitude": 50.61209470074912,
+                "longitude": 3.1305053987428133
+            },
+            {
+                "Localisation": "Arena Bercy",
+                "latitude": 48.83873234042167,
+                "longitude": 2.3785894024455616
+            }
+        ]
+    },
+    {
+        "Sports": "Basketball 3x3",
+        "Icone": "",
+        "StartDate": "7/30/24",
+        "EventDate": "7/30/24 12:45",
+        "EndDate": "8/5/24",
+        "Awards": "Compétitions à La Concorde. Des remises de médailles sont prévues dans la session du 5 août.",
+        "Details": [
+            {
+                "Localisation": "La Concorde",
+                "latitude": 48.865731879305386,
+                "longitude": 2.321450274378174
+            }
+        ]
+    },
+    {
+        "Sports": "BMX freestyle",
+        "Icone": "",
+        "StartDate": "7/30/24",
+        "EventDate": "7/30/24 14:15",
+        "EndDate": "7/31/24",
+        "Awards": "Compétitions à La Concorde. Des remises de médailles sont prévues dans la session du 31 juillet.",
+        "Details": [
+            {
+                "Localisation": "La Concorde",
+                "latitude": 48.865731879305386,
+                "longitude": 2.321450274378174
+            }
+        ]
+    },
+    {
+        "Sports": "BMX race",
+        "Icone": "",
+        "StartDate": "8/1/24",
+        "EventDate": "8/1/24 08:30",
+        "EndDate": "8/2/24",
+        "Awards": "Compétitions au Stade BMX de Saint-Quentin-en-Yvelines. Des remises de médailles sont prévues dans la session du 2 août.",
+        "Details": [
+            {
+                "Localisation": "Stade BMX de Saint-Quentin-en-Yvelines",
+                "latitude": 48.78602227876169,
+                "longitude": 2.0339690558728445
+            }
+        ]
+    },
+    {
+        "Sports": "Boxe",
+        "Icone": "",
+        "StartDate": "7/27/24",
+        "EventDate": "7/27/24 10:00",
+        "EndDate": "8/10/24",
+        "Awards": "Compétitions à l’Arena Paris Nord et au Stade Roland-Garros. Des remises de médailles sont prévues dans les sessions du 6, 7, 8, 9 et 10 août.",
+        "Details": [
+            {
+                "Localisation": "Arena Paris Nord",
+                "latitude": 48.899662536439834,
+                "longitude": 2.3587484011552906
+            },
+            {
+                "Localisation": "Stade Roland-Garros",
+                "latitude": 48.84594905034251,
+                "longitude": 2.2538468264982137
+                ]
+            },
+            {
+                "Sports": "Breaking",
+                "Icone": "",
+                "StartDate": "8/9/24",
+                "EventDate": "8/9/24 12:30",
+                "EndDate": "8/10/24",
+                "Awards": "Compétitions à La Concorde. Des remises de médailles sont prévues lors de toutes les sessions.",
+                "Details": [
+                    {
+                        "Localisation": "La Concorde",
+                        "latitude": 48.865731879305386,
+                        "longitude": 2.321450274378174
+                    }
+                ]
+            },
+            {
+                "Sports": "Canoë slalom",
+                "Icone": "",
+                "StartDate": "7/27/24",
+                "EventDate": "7/27/24 09:00",
+                "EndDate": "8/5/24",
+                "Awards": "Des remises de médailles sont prévues dans les sessions du 28, 29 et 31 juillet et du 1er et 5 août.",
+                "Details": [
+                    {
+                        "Localisation": "Stade nautique de Vaires-sur-Marne",
+                        "latitude": 48.86075933171047,
+                        "longitude": 2.637892709804562
+                    }
+                ]
+            },
+            {
+                "Sports": "Canoë sprint",
+                "Icone": "",
+                "StartDate": "8/6/24",
+                "EventDate": "8/6/24 09:00",
+                "EndDate": "8/10/24",
+                "Awards": "Des remises de médailles sont prévues dans les sessions du 8, 9 et 10 août.",
+                "Details": [
+                    {
+                        "Localisation": "Stade nautique de Vaires-sur-Marne",
+                        "latitude": 48.86075933171047,
+                        "longitude": 2.637892709804562
+                    }
+                ]
+            },
+            {
+                "Sports": "Cyclisme sur piste",
+                "Icone": "",
+                "StartDate": "8/5/24",
+                "EventDate": "8/5/24 10:15",
+                "EndDate": "8/11/24",
+                "Awards": "Des remises de médailles sont prévues lors de toutes les sessions.",
+                "Details": [
+                    {
+                        "Localisation": "Vélodrome national de Saint-Quentin-en-Yvelines",
+                        "latitude": 48.78820351880093,
+                        "longitude": 2.0347988534811483
+                    }
+                ]
+            },
+            {
+                "Sports": "Cyclisme sur route",
+                "Icone": "",
+                "StartDate": "7/27/24",
+                "EventDate": "7/27/24 11:30",
+                "EndDate": "8/4/24",
+                "Awards": "Compétitions au Pont d’Iéna, aux Invalides et au pont Alexandre III. Des remises de médailles sont prévues lors de toutes les sessions.",
+                "Details": [
+                    {
+                        "Localisation": "Pont d’Iéna",
+                        "latitude": 48.85998796623749,
+                        "longitude": 2.2919935698571776
+                    },
+                    {
+                        "Localisation": "Invalides",
+                        "latitude": 48.860971960691444,
+                        "longitude": 2.3131782857233625,
+                    },
+                    {
+                        "Localisation": "Pont Alexandre III",
+                        "latitude": 48.86406180423609,
+                        "longitude": 2.313537541071143
+                    }
+                ]
+            }
+        ]
+        

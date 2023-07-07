@@ -1,0 +1,533 @@
+[
+    {
+        "Sports": "Athlétisme",
+        "Localisation": "Stade de France",
+        "latitude": 48.924587787989196,
+        "longitude": 2.3606325821837397,
+        "StartDate": "8/1/24",
+        "EndDate": "8/11/24",
+        "Awards": "Compétitions au Stade de France. Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Aviron",
+        "Localisation": "Stade nautique de Vaires-sur-Marne",
+        "latitude": 48.86075933171047,
+        "longitude": 2.637892709804562,
+        "StartDate": "7/27/24",
+        "EndDate": "8/3/24",
+        "Awards": "Compétitions au stade nautique de Vaires-sur-Marne. Des remises de médailles sont prévues dans les sessions du 31 juillet, 1er, 2 et 3 août."
+    },
+    {
+        "Sports": "Badminton",
+        "Localisation": "Arena Porte de la Chapelle",
+        "latitude": 48.89954612433169,
+        "longitude": 2.359849782863502,
+        "StartDate": "7/27/24",
+        "EndDate": "8/5/24",
+        "Awards": "Compétitions au stade nautique de Vaires-sur-Marne. Des remises de médailles sont prévues dans les sessions du 2, 3, 4 et 5 août."
+    },
+    {
+        "Sports": "Basketball",
+        "Localisation": "Stade Pierre Mauroy",
+        "latitude": 50.61209470074912,
+        "longitude": 3.1305053987428133,
+        "StartDate": "7/27/24",
+        "EndDate": "8/11/24",
+        "Awards": "Compétitions au stade Pierre Mauroy et à l'Arena Bercy. Des remises de médailles sont prévues dans les sessions du 10 et 11 août."
+    },
+    {
+        "Sports": "Basketball",
+        "Localisation": "Arena Bercy",
+        "latitude": 48.83873234042167,
+        "longitude": 2.3785894024455616,
+        "StartDate": "7/27/24",
+        "EndDate": "8/11/24",
+        "Awards": ""
+    },
+    {
+        "Sports": "Basketball 3x3",
+        "Localisation": "La Concorde",
+        "latitude": 48.865731879305386,
+        "longitude": 2.321450274378174,
+        "StartDate": "7/30/24",
+        "EndDate": "8/5/24",
+        "Awards": "Compétitions à La Concorde. Des remises de médailles sont prévues dans la session du 5 août."
+    },
+    {
+        "Sports": "BMX freestyle",
+        "Localisation": "La Concorde",
+        "latitude": 48.865731879305386,
+        "longitude": 2.321450274378174,
+        "StartDate": "7/30/24",
+        "EndDate": "7/31/24",
+        "Awards": "Compétitions à La Concorde. Des remises de médailles sont prévues dans la session du 31 juillet."
+    },
+    {
+        "Sports": "BMX race",
+        "Localisation": "Stade BMX de Saint-Quentin-en-Yvelines",
+        "latitude": 48.78602227876169,
+        "longitude": 2.0339690558728445,
+        "StartDate": "8/1/24",
+        "EndDate": "8/2/24",
+        "Awards": "Compétitions au Stade BMX de Saint-Quentin-en-Yvelines. Des remises de médailles sont prévues dans la session du 2 août."
+    },
+    {
+        "Sports": "Boxe",
+        "Localisation": "Arena Paris Nord",
+        "latitude": 48.899662536439834,
+        "longitude": 2.3587484011552906,
+        "StartDate": "7/27/24",
+        "EndDate": "8/10/24",
+        "Awards": "Compétitions à l’Arena Paris Nord et au Stade Roland-Garros. Des remises de médailles sont prévues dans les sessions du 6, 7, 8, 9 et 10 août."
+    },
+    {
+        "Sports": "Boxe",
+        "Localisation": "Stade Roland-Garros",
+        "latitude": 48.84594905034251,
+        "longitude": 2.2538468264982137,
+        "StartDate": "7/27/24",
+        "EndDate": "8/10/24",
+        "Awards": "Compétitions à l’Arena Paris Nord et au Stade Roland-Garros. Des remises de médailles sont prévues dans les sessions du 6, 7, 8, 9 et 10 août."
+    },
+    {
+        "Sports": "Breaking",
+        "Localisation": "La Concorde",
+        "latitude": 48.865731879305386,
+        "longitude": 2.321450274378174,
+        "StartDate": "8/9/24",
+        "EndDate": "8/10/24",
+        "Awards": "Compétitions à La Concorde. Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Canoë slalom",
+        "Localisation": "Stade nautique de Vaires-sur-Marne",
+        "latitude": 48.86075933171047,
+        "longitude": 2.637892709804562,
+        "StartDate": "7/27/24",
+        "EndDate": "8/5/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 28, 29 et 31 juillet et du 1er et 5 août."
+    },
+    {
+        "Sports": "Canoë sprint",
+        "Localisation": "Stade nautique de Vaires-sur-Marne",
+        "latitude": 48.86075933171047,
+        "longitude": 2.637892709804562,
+        "StartDate": "8/6/24",
+        "EndDate": "8/10/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 8, 9 et 10 août."
+    },
+    {
+        "Sports": "Cyclisme sur piste",
+        "Localisation": "Vélodrome national de Saint-Quentin-en-Yvelines",
+        "latitude": 48.78820351880093,
+        "longitude": 2.0347988534811483,
+        "StartDate": "8/5/24",
+        "EndDate": "8/11/24",
+        "Awards": "Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Cyclisme sur route",
+        "Localisation": "Pont d’Iéna",
+        "latitude": 48.85998796623749,
+        "longitude": 2.2919935698571776,
+        "StartDate": "7/27/24",
+        "EndDate": "8/4/24",
+        "Awards": "Compétitions au Pont d’Iéna, aux Invalides et au pont Alexandre III. Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Cyclisme sur route",
+        "Localisation": "Invalides",
+        "latitude": 48.860971960691444,
+        "longitude": 2.3131782857233625,
+        "StartDate": "7/27/24",
+        "EndDate": "8/4/24",
+        "Awards": "Compétitions au Pont d’Iéna, aux Invalides et au pont Alexandre III. Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Cyclisme sur route",
+        "Localisation": "Pont Alexandre III",
+        "latitude": 48.86406180423609,
+        "longitude": 2.313537541071143,
+        "StartDate": "7/27/24",
+        "EndDate": "8/4/24",
+        "Awards": "Compétitions au Pont d’Iéna, aux Invalides et au pont Alexandre III. Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Escalade sportive",
+        "Localisation": "Site d’escalade du Bourget",
+        "latitude": 48.93747791357788,
+        "longitude": 2.4203411032171473,
+        "StartDate": "8/5/24",
+        "EndDate": "8/10/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 7, 8, 9 et 10 août."
+    },
+    {
+        "Sports": "Escrime",
+        "Localisation": "Grand Palais",
+        "latitude": 48.8662361089103,
+        "longitude": 2.312454397663371,
+        "StartDate": "7/27/24",
+        "EndDate": "8/4/24",
+        "Awards": "Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Escrime fauteuil",
+        "Localisation": "Grand Palais",
+        "latitude": 48.8662361089103,
+        "longitude": 2.312454397663371,
+        "StartDate": "9/3/24",
+        "EndDate": "9/7/24",
+        "Awards": "Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Football",
+        "Localisation": "Parc des Princes",
+        "latitude": 48.84159797708624,
+        "longitude": 2.2530376698567207,
+        "StartDate": "7/24/24",
+        "EndDate": "8/10/24",
+        "Awards": "Compétitions au Parc des Princes, Stade de Nantes, Stade de Bordeaux, Stade de Marseille, Stade de Nice, Stade Geoffroy-Guichard et Stade de Lyon. Des remises de médailles sont prévues dans les sessions du 8, 9 et 10 août."
+    },
+    {
+        "Sports": "Football",
+        "Localisation": "Stade de Nantes",
+        "latitude": 47.25614706354488,
+        "longitude": -1.523602118316764,
+        "StartDate": "7/24/24",
+        "EndDate": "8/10/24",
+        "Awards": "Compétitions au Parc des Princes, Stade de Nantes, Stade de Bordeaux, Stade de Marseille, Stade de Nice, Stade Geoffroy-Guichard et Stade de Lyon. Des remises de médailles sont prévues dans les sessions du 8, 9 et 10 août."
+    },
+    {
+        "Sports": "Football",
+        "Localisation": "Stade de Bordeaux",
+        "latitude": 44.897502671098415,
+        "longitude": -0.5613609958487208,
+        "StartDate": "7/24/24",
+        "EndDate": "8/10/24",
+        "Awards": "Compétitions au Parc des Princes, Stade de Nantes, Stade de Bordeaux, Stade de Marseille, Stade de Nice, Stade Geoffroy-Guichard et Stade de Lyon. Des remises de médailles sont prévues dans les sessions du 8, 9 et 10 août."
+    },
+    {
+        "Sports": "Football",
+        "Localisation": "Stade de Marseille",
+        "latitude": 43.26994407697712,
+        "longitude": 5.396477375771246,
+        "StartDate": "7/24/24",
+        "EndDate": "8/10/24",
+        "Awards": "Compétitions au Parc des Princes, Stade de Nantes, Stade de Bordeaux, Stade de Marseille, Stade de Nice, Stade Geoffroy-Guichard et Stade de Lyon. Des remises de médailles sont prévues dans les sessions du 8, 9 et 10 août."
+    },
+    {
+        "Sports": "Football",
+        "Localisation": "Stade de Nice",
+        "latitude": 43.705287313271576,
+        "longitude": 7.192598769720103,
+        "StartDate": "7/24/24",
+        "EndDate": "8/10/24",
+        "Awards": "Compétitions au Parc des Princes, Stade de Nantes, Stade de Bordeaux, Stade de Marseille, Stade de Nice, Stade Geoffroy-Guichard et Stade de Lyon. Des remises de médailles sont prévues dans les sessions du 8, 9 et 10 août."
+    },
+    {
+        "Sports": "Football",
+        "Localisation": "Stade Geoffroy-Guichard",
+        "latitude": 45.460976450507005,
+        "longitude": 4.390151098601849,
+        "StartDate": "7/24/24",
+        "EndDate": "8/10/24",
+        "Awards": "Compétitions au Parc des Princes, Stade de Nantes, Stade de Bordeaux, Stade de Marseille, Stade de Nice, Stade Geoffroy-Guichard et Stade de Lyon. Des remises de médailles sont prévues dans les sessions du 8, 9 et 10 août."
+    },
+    {
+        "Sports": "Football",
+        "Localisation": "Stade de Lyon",
+        "latitude": 45.76543717502201,
+        "longitude": 4.982297219519486,
+        "StartDate": "7/24/24",
+        "EndDate": "8/10/24",
+        "Awards": "Compétitions au Parc des Princes, Stade de Nantes, Stade de Bordeaux, Stade de Marseille, Stade de Nice, Stade Geoffroy-Guichard et Stade de Lyon Des remises de médailles sont prévues dans les sessions du 8, 9 et 10 août."
+    },
+    {
+        "Sports": "Golf",
+        "Localisation": "Golf National",
+        "latitude": 48.75472519173938,
+        "longitude": 2.076799485474217,
+        "StartDate": "8/1/24",
+        "EndDate": "8/10/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 4 et 10 août."
+    },
+    {
+        "Sports": "Gymnastique artistique",
+        "Localisation": "Arena Bercy",
+        "latitude": 48.83873234042167,
+        "longitude": 2.3785894024455616,
+        "StartDate": "7/27/24",
+        "EndDate": "8/5/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 29, 30 et 31 juillet et du 1er, 3, 4 et 5 août."
+    },
+    {
+        "Sports": "Gymnastique rythmique",
+        "Localisation": "Arena Porte de la Chapelle",
+        "latitude": 48.89954612433169,
+        "longitude": 2.359849782863502,
+        "StartDate": "8/8/24",
+        "EndDate": "8/10/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 9 et 10 août."
+    },
+    {
+        "Sports": "Haltérophilie",
+        "Localisation": "Arena Paris Sud 6",
+        "latitude": 48.83019425132066,
+        "longitude": 2.290954952941551,
+        "StartDate": "8/7/24",
+        "EndDate": "8/11/24",
+        "Awards": "Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Handball",
+        "Localisation": "Stade Pierre Mauroy",
+        "latitude": 50.61209470074912,
+        "longitude": 3.1305053987428133,
+        "StartDate": "7/25/24",
+        "EndDate": "8/11/24",
+        "Awards": "Compétitions au Stade Pierre Mauroy et à l’Arena Paris Sud 6. Des remises de médailles sont prévues dans les sessions du 10 et 11 août."
+    },
+    {
+        "Sports": "Handball",
+        "Localisation": "Arena Paris Sud 6",
+        "latitude": 48.83019425132066,
+        "longitude": 2.290954952941551,
+        "StartDate": "7/25/24",
+        "EndDate": "8/11/24",
+        "Awards": "Compétitions au Stade Pierre Mauroy et à l’Arena Paris Sud 6. Des remises de médailles sont prévues dans les sessions du 10 et 11 août."
+    },
+    {
+        "Sports": "Hockey",
+        "Localisation": "Stade Yves-du-Manoir",
+        "latitude": 48.92941804592227,
+        "longitude": 2.2477931553377175,
+        "StartDate": "7/27/24",
+        "EndDate": "8/9/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 8 et 9 août."
+    },
+    {
+        "Sports": "Judo",
+        "Localisation": "Arena Champ de Mars",
+        "latitude": 48.855774535464825,
+        "longitude": 2.2986411275792404,
+        "StartDate": "7/27/24",
+        "EndDate": "8/3/24",
+        "Awards": "Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Lutte",
+        "Localisation": "Arena Champ de Mars",
+        "latitude": 48.855774535464825,
+        "longitude": 2.2986411275792404,
+        "StartDate": "8/5/24",
+        "EndDate": "8/11/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 6, 7, 8, 9, 10 et 11 août."
+    },
+    {
+        "Sports": "Natation",
+        "Localisation": "Paris La Défense Arena",
+        "latitude": 48.83910281999852,
+        "longitude": 2.3785412846570413,
+        "StartDate": "7/27/24",
+        "EndDate": "8/4/24",
+        "Awards": "Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Natation artistique",
+        "Localisation": "Centre Aquatique",
+        "latitude": 48.92365840995517,
+        "longitude": 2.3555610841732135,
+        "StartDate": "8/5/24",
+        "EndDate": "8/10/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 7 et 10 août."
+    },
+    {
+        "Sports": "Natation marathon",
+        "Localisation": "Pont Alexandre III",
+        "latitude": 48.86406180423609,
+        "longitude": 2.313537541071143,
+        "StartDate": "8/8/24",
+        "EndDate": "8/9/24",
+        "Awards": "Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Pentathlon moderne",
+        "Localisation": "Château de Versailles ",
+        "latitude": 48.80500619683875,
+        "longitude": 2.120323212233536,
+        "StartDate": "8/8/24",
+        "EndDate": "8/11/24",
+        "Awards": "Compétitions au Château de Versailles et à l’Arena Paris Nord. Des remises de médailles sont prévues dans les sessions du 10 et 11 août."
+    },
+    {
+        "Sports": "Pentathlon moderne",
+        "Localisation": "Arena Paris Nord",
+        "latitude": 48.899662536439834,
+        "longitude": 2.3587484011552906,
+        "StartDate": "8/8/24",
+        "EndDate": "8/11/24",
+        "Awards": "Compétitions au Château de Versailles et à l’Arena Paris Nord. Des remises de médailles sont prévues dans les sessions du 10 et 11 août."
+    },
+    {
+        "Sports": "Plongeon",
+        "Localisation": "Centre Aquatique",
+        "latitude": 48.92365840995517,
+        "longitude": 2.3555610841732135,
+        "StartDate": "7/27/24",
+        "EndDate": "8/10/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 27, 29 et 31 juillet et du 2, 6, 8, 9 et 10 août."
+    },
+    {
+        "Sports": "Rugby",
+        "Localisation": "Stade de France",
+        "latitude": 48.924587787989196,
+        "longitude": 2.3606325821837397,
+        "StartDate": "7/24/24",
+        "EndDate": "7/30/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 27 et 30 juillet."
+    },
+    {
+        "Sports": "Skateboard",
+        "Localisation": "La Concorde",
+        "latitude": 48.865731879305386,
+        "longitude": 2.321450274378174,
+        "StartDate": "7/27/24",
+        "EndDate": "8/7/24",
+        "Awards": "Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Sports Equestres",
+        "Localisation": "Château de Versailles",
+        "latitude": 48.80500619683875,
+        "longitude": 2.120323212233536,
+        "StartDate": "7/27/24",
+        "EndDate": "8/6/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 29 juillet et du 2, 3, 4 et 6 août."
+    },
+    {
+        "Sports": "Surf",
+        "Localisation": "Teahupo’o, à Tahiti",
+        "latitude": -17.84682207614134,
+        "longitude": -149.26890635735552,
+        "StartDate": "7/27/24",
+        "EndDate": "7/30/24",
+        "Awards": "Des remises de médailles sont prévues dans la session du 30 juillet."
+    },
+    {
+        "Sports": "Taekwondo",
+        "Localisation": "Grand Palais",
+        "latitude": 48.8662361089103,
+        "longitude": 2.312454397663371,
+        "StartDate": "8/7/24",
+        "EndDate": "8/10/24",
+        "Awards": "Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Tennis",
+        "Localisation": "Stade Roland-Garros",
+        "latitude": 48.84594905034251,
+        "longitude": 2.2538468264982137,
+        "StartDate": "7/27/24",
+        "EndDate": "8/4/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 2, 3 et 4 août."
+    },
+    {
+        "Sports": "Tennis de table",
+        "Localisation": "Arena Paris Sud 4",
+        "latitude": 48.83019425132066,
+        "longitude": 2.290954952941551,
+        "StartDate": "7/27/24",
+        "EndDate": "8/10/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 30 juillet et du 3, 4, 9 et 10 août."
+    },
+    {
+        "Sports": "Tir",
+        "Localisation": "Centre national de tir de Châteauroux",
+        "latitude": 46.82321364734557,
+        "longitude": 1.7698428802613708,
+        "StartDate": "7/27/24",
+        "EndDate": "8/5/24",
+        "Awards": "Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Tir à l’arc",
+        "Localisation": "Invalides",
+        "latitude": 48.860971960691444,
+        "longitude": 2.3131782857233625,
+        "StartDate": "7/25/24",
+        "EndDate": "8/4/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 28 et 29 juillet et du 2, 3 et 4 août."
+    },
+    {
+        "Sports": "Trampoline",
+        "Localisation": "Arena Bercy",
+        "latitude": 48.83873234042167,
+        "longitude": 2.3785894024455616,
+        "StartDate": "8/2/24",
+        "EndDate": "8/2/24",
+        "Awards": "Des remises de médailles sont prévues lors de cette session."
+    },
+    {
+        "Sports": "Triathlon",
+        "Localisation": "Pont Alexandre III",
+        "latitude": 48.86406180423609,
+        "longitude": 2.313537541071143,
+        "StartDate": "7/30/24",
+        "EndDate": "8/5/24",
+        "Awards": "Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Voile",
+        "Localisation": "La Marina de Marseille",
+        "latitude": 43.29256582702327,
+        "longitude": 5.35403251591138,
+        "StartDate": "7/28/24",
+        "EndDate": "8/8/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 1, 2, 6, 7 et 8 août."
+    },
+    {
+        "Sports": "Volleyball",
+        "Localisation": "Arena Paris Sud 1",
+        "latitude": 48.83019425132066,
+        "longitude": 2.290954952941551,
+        "StartDate": "7/27/24",
+        "EndDate": "8/11/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 9, 10 et 11 août."
+    },
+    {
+        "Sports": "Volleyball de plage",
+        "Localisation": "Stade Tour Eiffel",
+        "latitude": 48.85866418665195,
+        "longitude": 2.2944886445984327,
+        "StartDate": "7/27/24",
+        "EndDate": "8/10/24",
+        "Awards": "Des remises de médailles sont prévues dans les sessions du 9 et 10 août."
+    },
+    {
+        "Sports": "VTT",
+        "Localisation": "Colline d’Elancourt",
+        "latitude": 48.78860094193568,
+        "longitude": 1.969279082259771,
+        "StartDate": "7/28/24",
+        "EndDate": "7/29/24",
+        "Awards": "Des remises de médailles sont prévues lors de toutes les sessions."
+    },
+    {
+        "Sports": "Waterpolo",
+        "Localisation": "Centre Aquatique",
+        "latitude": 48.92365840995517,
+        "longitude": 2.3555610841732135,
+        "StartDate": "7/27/24",
+        "EndDate": "8/11/24",
+        "Awards": "Compétitions au Centre Aquatique et à Paris la Défense Arena. Des remises de médailles sont prévues dans les sessions du 10 et 11 août."
+    },
+    {
+        "Sports": "Waterpolo",
+        "Localisation": "Paris la Défense Arena",
+        "latitude": 48.83910281999852,
+        "longitude": 2.3785412846570413,
+        "StartDate": "7/27/24",
+        "EndDate": "8/11/24",
+        "Awards": "Compétitions au Centre Aquatique et à Paris la Défense Arena. Des remises de médailles sont prévues dans les sessions du 10 et 11 août."
+    }
+]
